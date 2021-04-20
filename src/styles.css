@@ -1,0 +1,15 @@
+.root{
+    -fx-background-image: url("matrix_background.jpg");
+    -fx-background-size: 600 600;
+}
+
+.button{
+    -fx-font-size: 12pt;
+    -fx-font-weight: bolder;
+    -fx-background-radius: 25px;
+}
+
+.button:hover{
+    -fx-base: rgb(0,0,0);
+    -fx-text-fill: rgb(0,244,0);
+}
